@@ -1,0 +1,6 @@
+.DS_Store
+.bsp/
+.idea/
+build.sbt
+**/target
+project/
